@@ -1,0 +1,10 @@
+C:\Users\jdwoo090\source\repos\CookieClickerProject\CookieClickerProject\bin\Debug\CookieClickerProject.exe.config
+C:\Users\jdwoo090\source\repos\CookieClickerProject\CookieClickerProject\bin\Debug\CookieClickerProject.exe
+C:\Users\jdwoo090\source\repos\CookieClickerProject\CookieClickerProject\bin\Debug\CookieClickerProject.pdb
+C:\Users\jdwoo090\source\repos\CookieClickerProject\CookieClickerProject\obj\Debug\CookieClickerProject.csprojAssemblyReference.cache
+C:\Users\jdwoo090\source\repos\CookieClickerProject\CookieClickerProject\obj\Debug\CookieClickerProject.Form1.resources
+C:\Users\jdwoo090\source\repos\CookieClickerProject\CookieClickerProject\obj\Debug\CookieClickerProject.Properties.Resources.resources
+C:\Users\jdwoo090\source\repos\CookieClickerProject\CookieClickerProject\obj\Debug\CookieClickerProject.csproj.GenerateResource.cache
+C:\Users\jdwoo090\source\repos\CookieClickerProject\CookieClickerProject\obj\Debug\CookieClickerProject.exe
+C:\Users\jdwoo090\source\repos\CookieClickerProject\CookieClickerProject\obj\Debug\CookieClickerProject.pdb
+C:\Users\jdwoo090\source\repos\CookieClickerProject\CookieClickerProject\obj\Debug\CookieClickerProject.hire.resources
